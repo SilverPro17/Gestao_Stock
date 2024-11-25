@@ -51,7 +51,7 @@ O projeto segue uma estrutura padrão do Django, com aplicações separadas para
 - **Produto**: Modelos e funcionalidades para gestão de produtos.
 - **Estoque**: Lógica para controle de entradas e saídas.
 
-##Como rodar o projeto?
+## Como rodar o projeto?
 
 * Clone esse repositório.
 * Crie um virtualenv com python 3.
@@ -69,7 +69,7 @@ python contrib/env_gen.py
 python manage.py migrate
 ```
 
-##Links
+## Links
 
 [python-decouple](https://github.com/henriquebastos/python-decouple)
 
